@@ -1,0 +1,4 @@
+export TWILIO_ACCOUNT_SID=youraccountsid
+export TWILIO_AUTH_TOKEN=yourtokenhere
+export TWILIO_NUMBER=+1800yournumber
+export SQLALCHEMY_DATABASE_PATH=sqlite:////fullpath/to/sqlite/database/here
